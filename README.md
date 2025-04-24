@@ -6,3 +6,5 @@ Extracting data from the MangaUpdates API (https://api.mangaupdates.com/), clean
 ![Image](https://github.com/HSHSHSHSHSHSHSHSHSHS/401_Final/blob/main/Screenshots/Cleaning_code2.png)
 ![Image](https://github.com/HSHSHSHSHSHSHSHSHSHS/401_Final/blob/main/Screenshots/Vis_1.png)
 ![Image](https://github.com/HSHSHSHSHSHSHSHSHSHS/401_Final/blob/main/Screenshots/Vis_2.png)
+
+<img src="https://github.com/HSHSHSHSHSHSHSHSHSHS/401_Final/blob/main/Screenshots/Vis_2.png" width=50% height=50%>
