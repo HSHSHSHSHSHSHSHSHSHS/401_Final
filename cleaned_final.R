@@ -544,8 +544,8 @@ MU_df <- MU_df_raw%>%
   group_by(series_id)%>%
   slice(1)
 
-#how r there dupes bruh
-#ITS BECAUSE LATER DATA CHANGED LIST NUMBERS LMAO
+#how r there dupes
+#ITS BECAUSE LATER DATA CHANGED LIST NUMBERS
 # duped_id <- MU_df[duplicated(MU_df$series_id),]
 # a <- MU_df[MU_df$series_id == 323597984, ]
 # b <- a %>%
